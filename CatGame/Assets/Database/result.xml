@@ -1,0 +1,1603 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Root>
+  <row>
+    <ID>1</ID>
+    <weight>50</weight>
+    <description>You made a mess of yourself and it smelled like garbage, but you found an item:</description>
+    <time>60</time>
+    <runto></runto>
+    <effect>(item,1),(survivePoint,5),(cleanPoint,-5)</effect>
+  </row>
+  <row>
+    <ID>2</ID>
+    <weight>30</weight>
+    <description>You made a mess of yourself and it smelled like garbage, but you found an item:</description>
+    <time>60</time>
+    <runto></runto>
+    <effect>(item,2),(survivePoint,5),(cleanPoint,-5)</effect>
+  </row>
+  <row>
+    <ID>3</ID>
+    <weight>15</weight>
+    <description>You made a mess of yourself and it smelled like garbage, but you found an item:</description>
+    <time>60</time>
+    <runto></runto>
+    <effect>(item,3),(survivePoint,5),(cleanPoint,-5)</effect>
+  </row>
+  <row>
+    <ID>4</ID>
+    <weight>5</weight>
+    <description>You made a mess of yourself and it smelled like garbage, but you found an item:</description>
+    <time>60</time>
+    <runto></runto>
+    <effect>(item,4),(survivePoint,5),(cleanPoint,-5)</effect>
+  </row>
+  <row>
+    <ID>5</ID>
+    <weight>100</weight>
+    <description>You thought the smell is more important for life, so you leave</description>
+    <time>0</time>
+    <runto></runto>
+    <effect></effect>
+  </row>
+  <row>
+    <ID>6</ID>
+    <weight>100</weight>
+    <description>You walked back and forth many times by the side of the house, but you didn't find an entrance to the room. You wasted your time for nothing.</description>
+    <time>120</time>
+    <runto></runto>
+    <effect></effect>
+  </row>
+  <row>
+    <ID>7</ID>
+    <weight>100</weight>
+    <description>You didn't want to waste time in this place, so you left without looking back</description>
+    <time>30</time>
+    <runto></runto>
+    <effect></effect>
+  </row>
+  <row>
+    <ID>8</ID>
+    <weight>100</weight>
+    <description>Maybe it's fear, maybe it's guilt. When you see your grandma's reaction, you left</description>
+    <time>0</time>
+    <runto></runto>
+    <effect></effect>
+  </row>
+  <row>
+    <ID>9</ID>
+    <weight>20</weight>
+    <description>No text</description>
+    <time></time>
+    <runto>4</runto>
+    <effect>(liking,-15),(survivePoint,10)</effect>
+  </row>
+  <row>
+    <ID>10</ID>
+    <weight>40</weight>
+    <description>No text</description>
+    <time></time>
+    <runto>4</runto>
+    <effect>(liking,-15),(survivePoint,10)</effect>
+  </row>
+  <row>
+    <ID>11</ID>
+    <weight>40</weight>
+    <description>You pounced on the grandma, and she pushed hard to throw the cane at you, and you got sturdy and lost consciousness.</description>
+    <time>30</time>
+    <runto></runto>
+    <effect>(liking,-15),(survivePoint,10),(healthPoint,-30)</effect>
+  </row>
+  <row>
+    <ID>12</ID>
+    <weight>40</weight>
+    <description>You found an item:</description>
+    <time>60</time>
+    <runto></runto>
+    <effect>(item,3)</effect>
+  </row>
+  <row>
+    <ID>13</ID>
+    <weight>60</weight>
+    <description>It looks like your grandma is alert to you,so you couldn't find anything to eat in the kitchen</description>
+    <time>60</time>
+    <runto></runto>
+    <effect></effect>
+  </row>
+  <row>
+    <ID>14</ID>
+    <weight>100</weight>
+    <description>You thought you had done enough, and you decided to leave temporarily</description>
+    <time>60</time>
+    <runto></runto>
+    <effect></effect>
+  </row>
+  <row>
+    <ID>15</ID>
+    <weight>100</weight>
+    <description>Although you did a lot of excessive things, your grandma chose to forgive you.</description>
+    <time>30</time>
+    <runto></runto>
+    <effect>(liking,10),(cutePoint,10)</effect>
+  </row>
+  <row>
+    <ID>16</ID>
+    <weight>100</weight>
+    <description>Seeing your dirty life, grandma kicked you out</description>
+    <time>30</time>
+    <runto></runto>
+    <effect>(liking,-5),(cutePoint,-5)</effect>
+  </row>
+  <row>
+    <ID>17</ID>
+    <weight>20</weight>
+    <description>The grandma sighed and didn't care about you,you find an item in the kitchen:</description>
+    <time>60</time>
+    <runto></runto>
+    <effect>(liking,-10),(survivePoint,5),(item,2)</effect>
+  </row>
+  <row>
+    <ID>18</ID>
+    <weight>30</weight>
+    <description>Grandma closed the kitchen door at once, you rushed too fast, hit the door, and fainted</description>
+    <time>60</time>
+    <runto></runto>
+    <effect>(liking,-10),(survivePoint,5),(healthPoint,-10)</effect>
+  </row>
+  <row>
+    <ID>19</ID>
+    <weight>50</weight>
+    <description>Grandma shut the kitchen door all at once</description>
+    <time>60</time>
+    <runto></runto>
+    <effect>(liking,-10),(survivePoint,5)</effect>
+  </row>
+  <row>
+    <ID>20</ID>
+    <weight>100</weight>
+    <description>You think you have done enough, and you decide to leave temporarily</description>
+    <time>60</time>
+    <runto></runto>
+    <effect></effect>
+  </row>
+  <row>
+    <ID>21</ID>
+    <weight>100</weight>
+    <description>Maybe fear, maybe guilt, you left</description>
+    <time>0</time>
+    <runto></runto>
+    <effect></effect>
+  </row>
+  <row>
+    <ID>22</ID>
+    <weight>40</weight>
+    <description>You broke all the cabinets and pots and pans on the table. The grandma is too old to catch up with you.</description>
+    <time>60</time>
+    <runto></runto>
+    <effect>(liking,-15),(survivePoint,5),(cutePoint,-10)</effect>
+  </row>
+  <row>
+    <ID>23</ID>
+    <weight>20</weight>
+    <description>You want to smash all the cabinets and pots and pans on the table, but the grandma threw the cup at hand and hit you on the head, and you can only leave</description>
+    <time>60</time>
+    <runto></runto>
+    <effect>(liking,-10),(survivePoint,5),(cutePoint,-10),(healthPoint,-30)</effect>
+  </row>
+  <row>
+    <ID>24</ID>
+    <weight>40</weight>
+    <description>When you are smashing all the cupboards and pots and pans on the table, the grandma threw the cup at hand and hit you on the head.</description>
+    <time>60</time>
+    <runto></runto>
+    <effect>(liking,-10),(survivePoint,5),(cutePoint,-10),(healthPoint,-15)</effect>
+  </row>
+  <row>
+    <ID>25</ID>
+    <weight>100</weight>
+    <description>Because of your feminine hair, the grandma still welcomes you to her home, and give you some thing to eat. you get:</description>
+    <time>60</time>
+    <runto></runto>
+    <effect>(liking,10),(cutePoint,-10),(item,3)</effect>
+  </row>
+  <row>
+    <ID>26</ID>
+    <weight>100</weight>
+    <description>Because you are too dirty, the grandma kicked you out in no time</description>
+    <time>60</time>
+    <runto></runto>
+    <effect>(liking,-5),(cutePoint,-5)</effect>
+  </row>
+  <row>
+    <ID>27</ID>
+    <weight>80</weight>
+    <description>No text</description>
+    <time></time>
+    <runto>6</runto>
+    <effect></effect>
+  </row>
+  <row>
+    <ID>28</ID>
+    <weight>20</weight>
+    <description>You try to attract the grandma's attention, but she is unmoved</description>
+    <time>60</time>
+    <runto></runto>
+    <effect></effect>
+  </row>
+  <row>
+    <ID>29</ID>
+    <weight>70</weight>
+    <description>You found an item on the table</description>
+    <time>60</time>
+    <runto></runto>
+    <effect>(item,3)</effect>
+  </row>
+  <row>
+    <ID>30</ID>
+    <weight>30</weight>
+    <description>It seems that you are not here at the right time.</description>
+    <time>60</time>
+    <runto></runto>
+    <effect></effect>
+  </row>
+  <row>
+    <ID>31</ID>
+    <weight>100</weight>
+    <description>You are very satisfied with teasing grandma and left</description>
+    <time>30</time>
+    <runto></runto>
+    <effect>(luckyPoint,1)</effect>
+  </row>
+  <row>
+    <ID>32</ID>
+    <weight>100</weight>
+    <description>You are not very familiar with this human, you leave</description>
+    <time>0</time>
+    <runto></runto>
+    <effect>(luckyPoint,1)</effect>
+  </row>
+  <row>
+    <ID>33</ID>
+    <weight>80</weight>
+    <description>You run around the grandma in circles, you feel very interesting, but the grandma looks a little annoyed</description>
+    <time>60</time>
+    <runto></runto>
+    <effect>(liking,-15),(survivePoint,3),(cutePoint,-5),(luckyPoint,1)</effect>
+  </row>
+  <row>
+    <ID>34</ID>
+    <weight>5</weight>
+    <description>You slipped and fell when you jumped towards your grandma</description>
+    <time>60</time>
+    <runto></runto>
+    <effect>(liking,-10),(survivePoint,3),(cutePoint,-5),(healthPoint,-15),(luckyPoint,1)</effect>
+  </row>
+  <row>
+    <ID>35</ID>
+    <weight>15</weight>
+    <description>You run around the grandma in circles. You feel very interesting, but the grandma seems to be a little annoyed. When you leave, because of excessive physical exertion, you trip over the window frame and fall off the window.</description>
+    <time>60</time>
+    <runto></runto>
+    <effect>(liking,-10),(survivePoint,3),(cutePoint,-5),(healthPoint,-5),(luckyPoint,1)</effect>
+  </row>
+  <row>
+    <ID>36</ID>
+    <weight>100</weight>
+    <description>Although the two of you are not very familiar, the grandma accepted you and give you some thing to eat. You get:</description>
+    <time>60</time>
+    <runto></runto>
+    <effect>(liking,10),(cutePoint,10),(intelligencePoint,5),(item,3),(luckyPoint,1)</effect>
+  </row>
+  <row>
+    <ID>37</ID>
+    <weight>100</weight>
+    <description>Although the two of you are not very familiar, the old lady sees the stain on you and drives you away</description>
+    <time>60</time>
+    <runto></runto>
+    <effect>(liking,-5),(cutePoint,-5),(intelligencePoint,5),(luckyPoint,1)</effect>
+  </row>
+  <row>
+    <ID>38</ID>
+    <weight>80</weight>
+    <description>Jump</description>
+    <time></time>
+    <runto>8</runto>
+    <effect></effect>
+  </row>
+  <row>
+    <ID>39</ID>
+    <weight>20</weight>
+    <description>Grandma stopped you before you tried to enter the kitchen</description>
+    <time>60</time>
+    <runto></runto>
+    <effect>(luckyPoint,1)</effect>
+  </row>
+  <row>
+    <ID>40</ID>
+    <weight>90</weight>
+    <description>You found an item:</description>
+    <time>60</time>
+    <runto></runto>
+    <effect>(liking,-10),(intelligencePoint,5),(item,2),(luckyPoint,1)</effect>
+  </row>
+  <row>
+    <ID>41</ID>
+    <weight>10</weight>
+    <description>Unfortunately, it seems that the grandmother just finished changing the trash bags and there is nothing in the trash can</description>
+    <time>60</time>
+    <runto></runto>
+    <effect>(liking,-10),(intelligencePoint,5)</effect>
+  </row>
+  <row>
+    <ID>42</ID>
+    <weight>100</weight>
+    <description>You thought about it, why go to the trash can, you left</description>
+    <time>30</time>
+    <runto></runto>
+    <effect></effect>
+  </row>
+  <row>
+    <ID>43</ID>
+    <weight>100</weight>
+    <description>You think about it, it doesn't seem to be time to visit old friends</description>
+    <time>0</time>
+    <runto></runto>
+    <effect></effect>
+  </row>
+  <row>
+    <ID>44</ID>
+    <weight>80</weight>
+    <description>You didn't know why, but there was a strong will that drove you to tease grandma</description>
+    <time>60</time>
+    <runto></runto>
+    <effect>(liking,-15),(cutePoint,-10)</effect>
+  </row>
+  <row>
+    <ID>45</ID>
+    <weight>5</weight>
+    <description>you didn't know why, you wanted to trick the old woman,but it seems not work,and you got hurts</description>
+    <time>60</time>
+    <runto></runto>
+    <effect>(liking,-10),(cutePoint,-10),(healthPoint,-15)</effect>
+  </row>
+  <row>
+    <ID>46</ID>
+    <weight>15</weight>
+    <description>you didn't know why, but you did it. you tricked the old woman,and you got hurts</description>
+    <time>60</time>
+    <runto></runto>
+    <effect>(liking,-15),(cutePoint,-10),(healthPoint,-5)</effect>
+  </row>
+  <row>
+    <ID>47</ID>
+    <weight>100</weight>
+    <description>grandma likes you alot and give you some food</description>
+    <time>60</time>
+    <runto>10</runto>
+    <effect>(liking,10),(cutePoint,10),(intelligencePoint,15),(survivePoint,-5)</effect>
+  </row>
+  <row>
+    <ID>48</ID>
+    <weight>100</weight>
+    <description>old man yealing :just go have a shower! </description>
+    <time>60</time>
+    <runto></runto>
+    <effect>(liking,-15),(cutePoint,-10)</effect>
+  </row>
+  <row>
+    <ID>49</ID>
+    <weight>100</weight>
+    <description>you are so cute! The old woman says</description>
+    <time>60</time>
+    <runto></runto>
+    <effect>(intelligencePoint,15),(cutePoint,10)</effect>
+  </row>
+  <row>
+    <ID>50</ID>
+    <weight>100</weight>
+    <description>grandma likes you alot and give you some food. you get an item :</description>
+    <time>60</time>
+    <runto></runto>
+    <effect>(item,3)</effect>
+  </row>
+  <row>
+    <ID>51</ID>
+    <weight>100</weight>
+    <description>who need human's food. you leave</description>
+    <time>60</time>
+    <runto></runto>
+    <effect>(survivePoint,-5),(intelligencePoint,-5)</effect>
+  </row>
+  <row>
+    <ID>52</ID>
+    <weight>100</weight>
+    <description>you leave</description>
+    <time>0</time>
+    <runto></runto>
+    <effect></effect>
+  </row>
+  <row>
+    <ID>53</ID>
+    <weight>100</weight>
+    <description></description>
+    <time></time>
+    <runto>12</runto>
+    <effect></effect>
+  </row>
+  <row>
+    <ID>54</ID>
+    <weight>100</weight>
+    <description>grandma likes you alot and give you some food. you get an item:</description>
+    <time>60</time>
+    <runto></runto>
+    <effect>(item,4)</effect>
+  </row>
+  <row>
+    <ID>55</ID>
+    <weight>100</weight>
+    <description>who need human's food</description>
+    <time>60</time>
+    <runto></runto>
+    <effect>(survivePoint,-5),(intelligencePoint,-5)</effect>
+  </row>
+  <row>
+    <ID>56</ID>
+    <weight>100</weight>
+    <description>you just left</description>
+    <time>0</time>
+    <runto></runto>
+    <effect></effect>
+  </row>
+  <row>
+    <ID>57</ID>
+    <weight>100</weight>
+    <description>you asked for help</description>
+    <time>180</time>
+    <runto></runto>
+    <effect>(survivePoint,-5),(cutePoint,5),(healthPoint,20)</effect>
+  </row>
+  <row>
+    <ID>58</ID>
+    <weight>100</weight>
+    <description>you asked for food, and you got an item:</description>
+    <time>180</time>
+    <runto></runto>
+    <effect>(survivePoint,-5),(cutePoint,5),(item,4)</effect>
+  </row>
+  <row>
+    <ID>59</ID>
+    <weight>100</weight>
+    <description>You asked for sleep, grandma give you a nice blanket. you fall a sleep.</description>
+    <time>180</time>
+    <runto></runto>
+    <effect>(survivePoint,-5),(cutePoint,5),(staminaPoint,30)</effect>
+  </row>
+  <row>
+    <ID>60</ID>
+    <weight>100</weight>
+    <description>It seems that this human has blocked all the entrances that can be entered, let's change the time he is in</description>
+    <time>0</time>
+    <runto></runto>
+    <effect></effect>
+  </row>
+  <row>
+    <ID>61</ID>
+    <weight>100</weight>
+    <description></description>
+    <time></time>
+    <runto>15</runto>
+    <effect></effect>
+  </row>
+  <row>
+    <ID>62</ID>
+    <weight>80</weight>
+    <description>You are so angry, how can anyone refuse you such a cute cat? So you decide to leave a mark</description>
+    <time>60</time>
+    <runto></runto>
+    <effect></effect>
+  </row>
+  <row>
+    <ID>63</ID>
+    <weight>20</weight>
+    <description>You are so angry, how can anyone refuse you such a cute cat? So you decide to leave a mark, but suddenly a bear child comes out of the road and beats you seriously</description>
+    <time>60</time>
+    <runto></runto>
+    <effect></effect>
+  </row>
+  <row>
+    <ID>64</ID>
+    <weight>100</weight>
+    <description>Who wants to see the trash can</description>
+    <time>120</time>
+    <runto></runto>
+    <effect></effect>
+  </row>
+  <row>
+    <ID>65</ID>
+    <weight>20</weight>
+    <description>Maybe it's too timely for this human to take out the trash. You didn't find anything in the trash.</description>
+    <time>120</time>
+    <runto></runto>
+    <effect></effect>
+  </row>
+  <row>
+    <ID>66</ID>
+    <weight>50</weight>
+    <description>you find an item:</description>
+    <time>120</time>
+    <runto></runto>
+    <effect>(item,1),(survivePoint,5)</effect>
+  </row>
+  <row>
+    <ID>67</ID>
+    <weight>30</weight>
+    <description>you find an item:</description>
+    <time>120</time>
+    <runto></runto>
+    <effect>(item,2),(survivePoint,5)</effect>
+  </row>
+  <row>
+    <ID>68</ID>
+    <weight>80</weight>
+    <description>You are so angry, how can anyone refuse you such a cute cat? So you decide to leave a mark</description>
+    <time>120</time>
+    <runto></runto>
+    <effect>(intelligencePoint,-5),(liking,-10)</effect>
+  </row>
+  <row>
+    <ID>69</ID>
+    <weight>20</weight>
+    <description>You are so angry, how can anyone refuse you such a cute cat? So you decide to leave a mark, but suddenly a bear child comes out of the road and beats you seriously</description>
+    <time>120</time>
+    <runto></runto>
+    <effect>(intelligencePoint,-5),(liking,-10),(healthPoint,-5)</effect>
+  </row>
+  <row>
+    <ID>70</ID>
+    <weight>100</weight>
+    <description>Obviously you are looking for that human. But he is not at home. So you don't want to stay in this place for a minute.</description>
+    <time>0</time>
+    <runto></runto>
+    <effect></effect>
+  </row>
+  <row>
+    <ID>71</ID>
+    <weight>100</weight>
+    <description>There are some documents scattered on the desk, and you are happy to tear them apart. And by the way cut off the power cord of the computer</description>
+    <time>120</time>
+    <runto></runto>
+    <effect>(liking,-15),(cutePoint,-10)</effect>
+  </row>
+  <row>
+    <ID>72</ID>
+    <weight>100</weight>
+    <description>jump</description>
+    <time></time>
+    <runto>17</runto>
+    <effect></effect>
+  </row>
+  <row>
+    <ID>73</ID>
+    <weight>100</weight>
+    <description>Obviously, you still remember how to catch and kill these mice. Although the process is very tortuous, and made himself terribly dirty. But after killing the rat, you have a full meal</description>
+    <time>180</time>
+    <runto></runto>
+    <effect>(liking,15),(survivePoint,10),(satietyPoint,10),(cleanPoint,-5)</effect>
+  </row>
+  <row>
+    <ID>74</ID>
+    <weight>100</weight>
+    <description>You jump on the table and eat the remaining omelette and milk. But your claws leave a mark on the white tablecloth</description>
+    <time>60</time>
+    <runto></runto>
+    <effect>(liking,-5),(survivePoint,10),(satietyPoint,10),(drinkPoint,10)</effect>
+  </row>
+  <row>
+    <ID>75</ID>
+    <weight>100</weight>
+    <description>You jumped on the table and ate the remaining omelette and milk, leaving no stains on the white tablecloth</description>
+    <time>60</time>
+    <runto></runto>
+    <effect>(survivePoint,10),(satietyPoint,10),(drinkPoint,10)</effect>
+  </row>
+  <row>
+    <ID>76</ID>
+    <weight>50</weight>
+    <description>You jumped on the cooktop, opened the refrigerator with your paws, and found:</description>
+    <time>60</time>
+    <runto></runto>
+    <effect>(liking,-5),(item,3),(intelligencePoint,10)</effect>
+  </row>
+  <row>
+    <ID>77</ID>
+    <weight>40</weight>
+    <description>You jumped on the cooktop, opened the refrigerator with your paws, and found:</description>
+    <time>60</time>
+    <runto></runto>
+    <effect>(liking,-5),(item,4),(intelligencePoint,10)</effect>
+  </row>
+  <row>
+    <ID>78</ID>
+    <weight>10</weight>
+    <description>You jumped on the cooktop and tried to open the refrigerator with your claws, but the door of the refrigerator remained motionless.</description>
+    <time>60</time>
+    <runto></runto>
+    <effect>(staminaPoint,-5),(intelligencePoint,5)</effect>
+  </row>
+  <row>
+    <ID>79</ID>
+    <weight>80</weight>
+    <description>You flipped through the trash can and found:</description>
+    <time>60</time>
+    <runto></runto>
+    <effect>(liking,-10),(item,1),(cleanPoint,-10)</effect>
+  </row>
+  <row>
+    <ID>80</ID>
+    <weight>20</weight>
+    <description>You rummaged through the trash can, and you were lucky, you found:</description>
+    <time>60</time>
+    <runto></runto>
+    <effect>(liking,-10),(item,2)</effect>
+  </row>
+  <row>
+    <ID>81</ID>
+    <weight>100</weight>
+    <description>You thoughtabout it, and decided to forget it</description>
+    <time>30</time>
+    <runto></runto>
+    <effect></effect>
+  </row>
+  <row>
+    <ID>82</ID>
+    <weight>100</weight>
+    <description>You thought about it and felt this place shouldn't stay long, so you left</description>
+    <time>0</time>
+    <runto></runto>
+    <effect></effect>
+  </row>
+  <row>
+    <ID>83</ID>
+    <weight>100</weight>
+    <description>jump</description>
+    <time></time>
+    <runto>19</runto>
+    <effect></effect>
+  </row>
+  <row>
+    <ID>84</ID>
+    <weight>100</weight>
+    <description>jump</description>
+    <time></time>
+    <runto>20</runto>
+    <effect></effect>
+  </row>
+  <row>
+    <ID>85</ID>
+    <weight>100</weight>
+    <description>You can't move without being hungry, let alone catch mice. You can't keep up with them after a few steps of chasing them. The worse news is that this large-scale exercise in a short time makes you hungry</description>
+    <time>60</time>
+    <runto></runto>
+    <effect>(survivePoint,5),(satietyPoint,-5)</effect>
+  </row>
+  <row>
+    <ID>86</ID>
+    <weight>100</weight>
+    <description>You are energetic, and obviously you remember how to find and kill these annoying creatures, and after catching the mice, you have a full meal</description>
+    <time>90</time>
+    <runto></runto>
+    <effect>(liking,15),(survivePoint,10),(satietyPoint,10)</effect>
+  </row>
+  <row>
+    <ID>87</ID>
+    <weight>100</weight>
+    <description>You have a strong interest in the files on the ground, you pick some and tear them to pieces.</description>
+    <time>60</time>
+    <runto></runto>
+    <effect>(liking,-20)</effect>
+  </row>
+  <row>
+    <ID>88</ID>
+    <weight>80</weight>
+    <description>You became interested in the bottles on the ground, you rushed over and broke them</description>
+    <time>60</time>
+    <runto></runto>
+    <effect>(liking,-15)</effect>
+  </row>
+  <row>
+    <ID>89</ID>
+    <weight>20</weight>
+    <description>You have an interest in the bottles on the ground, you pounce on them and break them, but a piece of glass is stuck in your paw</description>
+    <time>90</time>
+    <runto></runto>
+    <effect>(liking,-15),(healthPoint,-15)</effect>
+  </row>
+  <row>
+    <ID>90</ID>
+    <weight>80</weight>
+    <description>You became interested in the wires, you snapped the wires and looked at the structure inside, but you were severely charged</description>
+    <time>90</time>
+    <runto></runto>
+    <effect>(liking,-15),(healthPoint,-15)</effect>
+  </row>
+  <row>
+    <ID>91</ID>
+    <weight>20</weight>
+    <description>You become interested in the wires, you bite the wires and look at the structure inside</description>
+    <time>60</time>
+    <runto></runto>
+    <effect>(liking,-15)</effect>
+  </row>
+  <row>
+    <ID>92</ID>
+    <weight>100</weight>
+    <description>You climbed onto the desk and pushed everything that was on the table to the ground</description>
+    <time>60</time>
+    <runto></runto>
+    <effect>(liking,-20)</effect>
+  </row>
+  <row>
+    <ID>93</ID>
+    <weight>80</weight>
+    <description>You jumped on the cooktop, opened the refrigerator with your paws, and found:</description>
+    <time>60</time>
+    <runto></runto>
+    <effect>(liking,-5),(item,4),(intelligencePoint,10)</effect>
+  </row>
+  <row>
+    <ID>94</ID>
+    <weight>20</weight>
+    <description>You jumped on the cooktop and tried to open the refrigerator with your claws, but the door of the refrigerator remained motionless.</description>
+    <time>60</time>
+    <runto></runto>
+    <effect>(staminaPoint,-5),(intelligencePoint,5)</effect>
+  </row>
+  <row>
+    <ID>95</ID>
+    <weight>100</weight>
+    <description>You jumped on the table, ate apples, and had a full meal</description>
+    <time>60</time>
+    <runto></runto>
+    <effect>(liking,-10),(survivePoint,10),(satietyPoint,10),(drinkPoint,10)</effect>
+  </row>
+  <row>
+    <ID>96</ID>
+    <weight>100</weight>
+    <description>You jump on the table and eat the remaining omelette and milk. But your claws leave a mark on the white tablecloth</description>
+    <time>60</time>
+    <runto></runto>
+    <effect>(liking,-5),(survivePoint,10),(satietyPoint,10),(drinkPoint,10)</effect>
+  </row>
+  <row>
+    <ID>97</ID>
+    <weight>100</weight>
+    <description>You jumped on the table and ate the remaining omelette and milk, leaving no stains on the white tablecloth</description>
+    <time>60</time>
+    <runto></runto>
+    <effect>(survivePoint,10),(satietyPoint,10),(drinkPoint,10)</effect>
+  </row>
+  <row>
+    <ID>98</ID>
+    <weight>100</weight>
+    <description>You managed to turn on the tap and drink a lot of water</description>
+    <time>60</time>
+    <runto></runto>
+    <effect>(survivePoint,10),(drinkPoint,100),(intelligencePoint,10),(cleanPoint,10)</effect>
+  </row>
+  <row>
+    <ID>99</ID>
+    <weight>100</weight>
+    <description>Maybe it's too alert, maybe it's for other reasons, you didn't eat this fish.</description>
+    <time>0</time>
+    <runto></runto>
+    <effect></effect>
+  </row>
+  <row>
+    <ID>100</ID>
+    <weight>100</weight>
+    <description>This plate of fish is simply top-notch and you have forgotten about other foods that exist in the world</description>
+    <time>30</time>
+    <runto></runto>
+    <effect>(survivePoint,-10),(satietyPoint,10),(healthPoint,10),(liking,10)</effect>
+  </row>
+  <row>
+    <ID>101</ID>
+    <weight>100</weight>
+    <description>jump</description>
+    <time></time>
+    <runto>22</runto>
+    <effect></effect>
+  </row>
+  <row>
+    <ID>102</ID>
+    <weight>100</weight>
+    <description>jump</description>
+    <time></time>
+    <runto>23</runto>
+    <effect></effect>
+  </row>
+  <row>
+    <ID>103</ID>
+    <weight>100</weight>
+    <description>jump</description>
+    <time></time>
+    <runto>24</runto>
+    <effect></effect>
+  </row>
+  <row>
+    <ID>104</ID>
+    <weight>100</weight>
+    <description>Yes, you gave up the plate of fish just to come to the house to eat leftovers!</description>
+    <time>60</time>
+    <runto></runto>
+    <effect>(survivePoint,5),(satietyPoint,5),(liking,-5),(intelligencePoint,-5)</effect>
+  </row>
+  <row>
+    <ID>105</ID>
+    <weight>100</weight>
+    <description>That's right, you gave up the plate of fish just to come to the house and flip the trash can!</description>
+    <time>60</time>
+    <runto></runto>
+    <effect>(survivePoint,10),(satietyPoint,5),(liking,-5),(intelligencePoint,-5)</effect>
+  </row>
+  <row>
+    <ID>106</ID>
+    <weight>80</weight>
+    <description>That's right, you gave up the plate of fish just to see if there is anything more advanced in the refrigerator! You found:</description>
+    <time>60</time>
+    <runto></runto>
+    <effect>(survivePoint,10),(satietyPoint,5),(liking,-5),(intelligencePoint,5),(item,4)</effect>
+  </row>
+  <row>
+    <ID>107</ID>
+    <weight>20</weight>
+    <description>Yes, you gave up the plate of fish just to see if there are any more advanced food in the refrigerator, but there is nothing in the refrigerator, obviously the owner of this room needs to go shopping</description>
+    <time>60</time>
+    <runto></runto>
+    <effect>(survivePoint,10),(satietyPoint,5),(liking,-5),(intelligencePoint,5)</effect>
+  </row>
+  <row>
+    <ID>108</ID>
+    <weight>100</weight>
+    <description>You found some files, you completely ignored the importance of these files, tore them to pieces, and then left.</description>
+    <time>60</time>
+    <runto></runto>
+    <effect>(liking,-10)</effect>
+  </row>
+  <row>
+    <ID>109</ID>
+    <weight>100</weight>
+    <description>You find some scattered wine bottles, this glassware has caused your curiosity. You pushed them down and shattered, but glass slag got into your claws</description>
+    <time>60</time>
+    <runto></runto>
+    <effect>(liking,-10),(healthPoint,-10)</effect>
+  </row>
+  <row>
+    <ID>110</ID>
+    <weight>100</weight>
+    <description>You became interested in the wires, you snapped the wires and looked at the structure inside, but you were severely charged</description>
+    <time>60</time>
+    <runto></runto>
+    <effect>(liking,-10),(healthPoint,-10)</effect>
+  </row>
+  <row>
+    <ID>111</ID>
+    <weight>100</weight>
+    <description>You feel like you've found a real home, canned cats are delicious, and the milk is just right</description>
+    <time>60</time>
+    <runto></runto>
+    <effect>(survivePoint,-10),(satietyPoint,10),(healthPoint,10),(liking,10),(drinkPoint,10)</effect>
+  </row>
+  <row>
+    <ID>112</ID>
+    <weight>100</weight>
+    <description>You lie in the cat house, as if you found a real paradise</description>
+    <time>180</time>
+    <runto></runto>
+    <effect>(healthPoint,10),(staminaPoint,20)</effect>
+  </row>
+  <row>
+    <ID>113</ID>
+    <weight>100</weight>
+    <description>You escaped with the ability to escape, you can't even imagine what would happen if you couldn't escape</description>
+    <time>60</time>
+    <runto></runto>
+    <effect>(liking,-10)</effect>
+  </row>
+  <row>
+    <ID>114</ID>
+    <weight>100</weight>
+    <description>You TRY to escape, but the young man was faster than you, you were severely beaten and lost consciousness</description>
+    <time>180</time>
+    <runto></runto>
+    <effect>(liking,-10),(healthPoint,-20)</effect>
+  </row>
+  <row>
+    <ID>115</ID>
+    <weight>100</weight>
+    <description>You wanted to fight back, but young people are faster than you, you are severely beaten, you lose consciousness</description>
+    <time>60</time>
+    <runto></runto>
+    <effect>(liking,-10),(healthPoint,-20)</effect>
+  </row>
+  <row>
+    <ID>116</ID>
+    <weight>100</weight>
+    <description>You are too dirty, young people don't even want to ignore you</description>
+    <time>60</time>
+    <runto></runto>
+    <effect>(liking,-10)</effect>
+  </row>
+  <row>
+    <ID>117</ID>
+    <weight>100</weight>
+    <description>When young people see you, he feel healed</description>
+    <time>60</time>
+    <runto></runto>
+    <effect>(liking,15)</effect>
+  </row>
+  <row>
+    <ID>118</ID>
+    <weight>100</weight>
+    <description>You took the apple from the young man,</description>
+    <time>60</time>
+    <runto></runto>
+    <effect>(liking,-10),(satietyPoint,5),(drinkPoint,5)</effect>
+  </row>
+  <row>
+    <ID>119</ID>
+    <weight>100</weight>
+    <description>this may be a bad time to be here. You left</description>
+    <time>0</time>
+    <runto></runto>
+    <effect></effect>
+  </row>
+  <row>
+    <ID>120</ID>
+    <weight>100</weight>
+    <description>you left</description>
+    <time>0</time>
+    <runto></runto>
+    <effect></effect>
+  </row>
+  <row>
+    <ID>121</ID>
+    <weight>100</weight>
+    <description>When young people see you, he feel healed</description>
+    <time>60</time>
+    <runto></runto>
+    <effect>(liking,15)</effect>
+  </row>
+  <row>
+    <ID>122</ID>
+    <weight>100</weight>
+    <description>Cat food is delicious</description>
+    <time>60</time>
+    <runto></runto>
+    <effect>(survivePoint,-10),(satietyPoint,10),(healthPoint,10),(liking,10)</effect>
+  </row>
+  <row>
+    <ID>123</ID>
+    <weight>100</weight>
+    <description>When young people see you, he feel healed</description>
+    <time>60</time>
+    <runto></runto>
+    <effect>(liking,15)</effect>
+  </row>
+  <row>
+    <ID>124</ID>
+    <weight>100</weight>
+    <description>The temperature of the milk is just right</description>
+    <time>60</time>
+    <runto></runto>
+    <effect>(survivePoint,-10),(healthPoint,10),(liking,10),(drinkPoint,10)</effect>
+  </row>
+  <row>
+    <ID>125</ID>
+    <weight>100</weight>
+    <description>You are so cute, even the bear child can't bear to torture you, he made you leave</description>
+    <time>30</time>
+    <runto></runto>
+    <effect>(survivePoint,5)</effect>
+  </row>
+  <row>
+    <ID>126</ID>
+    <weight>100</weight>
+    <description>Your escape skills let you successfully escape the bear claws</description>
+    <time>60</time>
+    <runto></runto>
+    <effect>(survivePoint,5)</effect>
+  </row>
+  <row>
+    <ID>127</ID>
+    <weight>100</weight>
+    <description>You try to sell cute, but the bear child does not eat this set, he still caught you and beat you</description>
+    <time>120</time>
+    <runto></runto>
+    <effect>(survivePoint,5),(healthPoint,-25)</effect>
+  </row>
+  <row>
+    <ID>128</ID>
+    <weight>100</weight>
+    <description>You try to fight back, but the bear child is young and strong, you have no chance, he beat you</description>
+    <time>120</time>
+    <runto></runto>
+    <effect>(survivePoint,5),(healthPoint,-25)</effect>
+  </row>
+  <row>
+    <ID>129</ID>
+    <weight>50</weight>
+    <description>You made a mess of yourself and it smelled like garbage, but you found an item:</description>
+    <time>30</time>
+    <runto></runto>
+    <effect>(survivePoint,5),(item,1)</effect>
+  </row>
+  <row>
+    <ID>130</ID>
+    <weight>30</weight>
+    <description>You made a mess of yourself and it smelled like garbage, but you found an item:</description>
+    <time>30</time>
+    <runto></runto>
+    <effect>(survivePoint,5),(item,2)</effect>
+  </row>
+  <row>
+    <ID>131</ID>
+    <weight>20</weight>
+    <description>You made a mess of yourself and it smelled like garbage, but you found an item:</description>
+    <time>30</time>
+    <runto></runto>
+    <effect>(survivePoint,5),(item,3)</effect>
+  </row>
+  <row>
+    <ID>132</ID>
+    <weight>50</weight>
+    <description>You haven't found a way to enter the bar after a few laps</description>
+    <time>120</time>
+    <runto></runto>
+    <effect>(intelligencePoint,5)</effect>
+  </row>
+  <row>
+    <ID>133</ID>
+    <weight>20</weight>
+    <description>jump</description>
+    <time></time>
+    <runto>33</runto>
+    <effect></effect>
+  </row>
+  <row>
+    <ID>134</ID>
+    <weight>30</weight>
+    <description>You haven't found a way to enter the bar,but you find some thing to eat:</description>
+    <time>120</time>
+    <runto></runto>
+    <effect>(intelligencePoint,5),(item,2)</effect>
+  </row>
+  <row>
+    <ID>135</ID>
+    <weight>20</weight>
+    <description>Obviously you remember how to find and kill these annoying creatures, and after catching the mice, you have a full meal</description>
+    <time>120</time>
+    <runto></runto>
+    <effect>(intelligencePoint,5),(survivePoint,5),(satietyPoint,10)</effect>
+  </row>
+  <row>
+    <ID>136</ID>
+    <weight>80</weight>
+    <description>Sorry you didn't find a mouse, it looks like this bar is very clean</description>
+    <time>120</time>
+    <runto></runto>
+    <effect>(intelligencePoint,5),(survivePoint,5)</effect>
+  </row>
+  <row>
+    <ID>137</ID>
+    <weight>100</weight>
+    <description>You don't think you should stay here for long, so you leave</description>
+    <time>0</time>
+    <runto></runto>
+    <effect>(intelligencePoint,5)</effect>
+  </row>
+  <row>
+    <ID>138</ID>
+    <weight>100</weight>
+    <description>it looks like he is very angry at waking up, he hit you fiercely with the cup in his hand</description>
+    <time>30</time>
+    <runto></runto>
+    <effect>(intelligencePoint,-5),(healthPoint,-15)</effect>
+  </row>
+  <row>
+    <ID>139</ID>
+    <weight>50</weight>
+    <description>You successfully got red wine and drank it, But cats should not drink wine,it hurts you</description>
+    <time>30</time>
+    <runto></runto>
+    <effect>(intelligencePoint,-5),(healthPoint,-5)</effect>
+  </row>
+  <row>
+    <ID>140</ID>
+    <weight>40</weight>
+    <description>When you try to take the wine, he wakes up, looks at you, and leaves</description>
+    <time>60</time>
+    <runto></runto>
+    <effect>(survivePoint,5)</effect>
+  </row>
+  <row>
+    <ID>141</ID>
+    <weight>10</weight>
+    <description>When you try to take the red wine, you accidentally knock the wine glass down, the wine is gone, but the person still doesn't wake up</description>
+    <time>60</time>
+    <runto></runto>
+    <effect>(intelligencePoint,5),(survivePoint,5)</effect>
+  </row>
+  <row>
+    <ID>142</ID>
+    <weight>80</weight>
+    <description>When you try to raise this person with your paw, he suddenly wakes up, and suddenly you scratch him accidentally. He was so angry that he picked up the glass and hit you fiercely</description>
+    <time>60</time>
+    <runto></runto>
+    <effect>(survivePoint,5),(healthPoint,-15)</effect>
+  </row>
+  <row>
+    <ID>143</ID>
+    <weight>10</weight>
+    <description>When you try to raise this person with your paw, he suddenly wakes up, and suddenly you scratch him accidentally. Although he was very angry, but because you are so cute, he touched the wound and left.</description>
+    <time>60</time>
+    <runto></runto>
+    <effect>(survivePoint,5)</effect>
+  </row>
+  <row>
+    <ID>144</ID>
+    <weight>10</weight>
+    <description>You try to wake him up, but he either sleeps too much, or drinks too much, and doesn't respond at all</description>
+    <time>60</time>
+    <runto></runto>
+    <effect>(survivePoint,5)</effect>
+  </row>
+  <row>
+    <ID>145</ID>
+    <weight>30</weight>
+    <description>You try to leave, but this person suddenly wakes up, it looks like he is very angry at waking up, he hit you fiercely with the cup in his hand</description>
+    <time>60</time>
+    <runto></runto>
+    <effect>(survivePoint,5),(healthPoint,-10)</effect>
+  </row>
+  <row>
+    <ID>146</ID>
+    <weight>10</weight>
+    <description>You try to leave, but this person suddenly wakes up, it looks like he is very angry at waking up,Although he was very angry, but because you are so cute, he left.</description>
+    <time>60</time>
+    <runto></runto>
+    <effect>(survivePoint,5)</effect>
+  </row>
+  <row>
+    <ID>147</ID>
+    <weight>60</weight>
+    <description>you leave</description>
+    <time>60</time>
+    <runto></runto>
+    <effect>(survivePoint,5)</effect>
+  </row>
+  <row>
+    <ID>148</ID>
+    <weight>100</weight>
+    <description>you eat it</description>
+    <time></time>
+    <runto></runto>
+    <effect></effect>
+  </row>
+  <row>
+    <ID>149</ID>
+    <weight>100</weight>
+    <description>you don't want to eat it</description>
+    <time></time>
+    <runto></runto>
+    <effect></effect>
+  </row>
+  <row>
+    <ID>150</ID>
+    <weight>100</weight>
+    <description>You left before things got out of control</description>
+    <time>0</time>
+    <runto></runto>
+    <effect>(intelligencePoint,10),(survivePoint,5)</effect>
+  </row>
+  <row>
+    <ID>151</ID>
+    <weight>100</weight>
+    <description>jump</description>
+    <time></time>
+    <runto>35</runto>
+    <effect></effect>
+  </row>
+  <row>
+    <ID>152</ID>
+    <weight>100</weight>
+    <description>You left before things got out of control</description>
+    <time>30</time>
+    <runto></runto>
+    <effect>(intelligencePoint,10),(survivePoint,5)</effect>
+  </row>
+  <row>
+    <ID>153</ID>
+    <weight>50</weight>
+    <description>costomer is angery and hit you very hard, But you get an item:</description>
+    <time>60</time>
+    <runto></runto>
+    <effect>(intelligencePoint,-10),(survivePoint,-5),(item,4),(healthPoint,-15)</effect>
+  </row>
+  <row>
+    <ID>154</ID>
+    <weight>20</weight>
+    <description>you act fast and take away costomer's eats. you get an item:</description>
+    <time>60</time>
+    <runto></runto>
+    <effect>(intelligencePoint,-10),(survivePoint,-5),(item,4)</effect>
+  </row>
+  <row>
+    <ID>155</ID>
+    <weight>30</weight>
+    <description>costomer see you and stop you before you get their food</description>
+    <time>60</time>
+    <runto></runto>
+    <effect>(intelligencePoint,-10),(survivePoint,-5)</effect>
+  </row>
+  <row>
+    <ID>156</ID>
+    <weight>50</weight>
+    <description>You took away a pack of food, and the otaku didn't notice what happened, because the room was too dark, and you didn't see what you carried away. After you went out, you found that you got:</description>
+    <time>30</time>
+    <runto></runto>
+    <effect>(item,4)</effect>
+  </row>
+  <row>
+    <ID>157</ID>
+    <weight>30</weight>
+    <description>Just as you tried to take away a snack, the otaku saw you, handed you a packet of food, and then continued to play the game. You got it:</description>
+    <time>30</time>
+    <runto></runto>
+    <effect>(liking,10),(item,5)</effect>
+  </row>
+  <row>
+    <ID>158</ID>
+    <weight>10</weight>
+    <description>You took away a pack of food, and the otaku didn't notice what happened, because the room was too dark, and you didn't see what you carried away. After you went out, you found that you got:</description>
+    <time>30</time>
+    <runto></runto>
+    <effect>(item,3)</effect>
+  </row>
+  <row>
+    <ID>159</ID>
+    <weight>10</weight>
+    <description>Just as you tried to take away a snack, the otaku saw you, handed you a packet of food, and then continued to play the game. You got it:</description>
+    <time>30</time>
+    <runto></runto>
+    <effect>(liking,10),(item,6)</effect>
+  </row>
+  <row>
+    <ID>160</ID>
+    <weight>100</weight>
+    <description>jump</description>
+    <time></time>
+    <runto>37</runto>
+    <effect></effect>
+  </row>
+  <row>
+    <ID>161</ID>
+    <weight>100</weight>
+    <description>You can't stand this environment, so you leave</description>
+    <time>0</time>
+    <runto></runto>
+    <effect></effect>
+  </row>
+  <row>
+    <ID>162</ID>
+    <weight>100</weight>
+    <description>You jumped in front of the TV, the otaku paused the game, gave you a bag of food, and took you outside, obviously it's not a good time to visit him now. You get:</description>
+    <time>30</time>
+    <runto></runto>
+    <effect>(liking,10),(item,6),(intelligencePoint,10)</effect>
+  </row>
+  <row>
+    <ID>163</ID>
+    <weight>90</weight>
+    <description>The otaku is angry, he gets up and kicks you out</description>
+    <time>60</time>
+    <runto></runto>
+    <effect>(intelligencePoint,-5),(liking,-10)</effect>
+  </row>
+  <row>
+    <ID>164</ID>
+    <weight>10</weight>
+    <description>Obviously, the game he played was so attractive that he didn't feel your attack at all</description>
+    <time>60</time>
+    <runto></runto>
+    <effect>(intelligencePoint,-5)</effect>
+  </row>
+  <row>
+    <ID>165</ID>
+    <weight>50</weight>
+    <description>You tried to bite off the TV cable, but you were severely electric shock</description>
+    <time>60</time>
+    <runto></runto>
+    <effect>(intelligencePoint,-5),(liking,-10),(healthPoint,-10)</effect>
+  </row>
+  <row>
+    <ID>166</ID>
+    <weight>50</weight>
+    <description>You tried to bite off the TV cable,The otaku is angry, he gets up and kicks you out</description>
+    <time>60</time>
+    <runto></runto>
+    <effect>(intelligencePoint,-5),(liking,-10)</effect>
+  </row>
+  <row>
+    <ID>167</ID>
+    <weight>100</weight>
+    <description>You think about it, forget it, turn around and leave</description>
+    <time>60</time>
+    <runto></runto>
+    <effect></effect>
+  </row>
+  <row>
+    <ID>168</ID>
+    <weight>100</weight>
+    <description>You eat canned food happily, this high-calorie canned food is obviously not suitable for you, but you eat very happy</description>
+    <time>60</time>
+    <runto></runto>
+    <effect>(liking,10),(satietyPoint,25),(drinkPoint,-5)</effect>
+  </row>
+  <row>
+    <ID>169</ID>
+    <weight>50</weight>
+    <description>Obviously the otaku is playing the tense part of the game, he did not pay attention to you</description>
+    <time>60</time>
+    <runto></runto>
+    <effect></effect>
+  </row>
+  <row>
+    <ID>170</ID>
+    <weight>50</weight>
+    <description>Otaku put down the game and stroked you gently</description>
+    <time>60</time>
+    <runto></runto>
+    <effect>(liking,10),(cutePoint,5)</effect>
+  </row>
+  <row>
+    <ID>171</ID>
+    <weight>100</weight>
+    <description>Obviously you think canned cat food doesn't appeal to you, you leave</description>
+    <time>0</time>
+    <runto></runto>
+    <effect></effect>
+  </row>
+  <row>
+    <ID>172</ID>
+    <weight>100</weight>
+    <description>Obviously, the otaku don't know how to  cook, and what he has kindly made cannot be called "food", but you still eat it</description>
+    <time>60</time>
+    <runto></runto>
+    <effect>(liking,10),(healthPoint,-5)</effect>
+  </row>
+  <row>
+    <ID>173</ID>
+    <weight>100</weight>
+    <description>Obviously, you see through the fact that the otaku will not cook, and you left in time</description>
+    <time>0</time>
+    <runto></runto>
+    <effect>(liking,-10),(intelligencePoint,10)</effect>
+  </row>
+  <row>
+    <ID>174</ID>
+    <weight>100</weight>
+    <description>Never mind, who cares about a grocery store</description>
+    <time>0</time>
+    <runto></runto>
+    <effect></effect>
+  </row>
+  <row>
+    <ID>175</ID>
+    <weight>50</weight>
+    <description>You waited for an hour and no one came to open the door, this grocery store is so deserted</description>
+    <time>60</time>
+    <runto></runto>
+    <effect></effect>
+  </row>
+  <row>
+    <ID>176</ID>
+    <weight>50</weight>
+    <description>You waited for an hour and finally someone opened the door and you took the opportunity to slip into the grocery store</description>
+    <time></time>
+    <runto>41</runto>
+    <effect></effect>
+  </row>
+  <row>
+    <ID>177</ID>
+    <weight>50</weight>
+    <description>You scratched the door with your paws, the clerk noticed you, but didn't open the door for you</description>
+    <time>30</time>
+    <runto></runto>
+    <effect></effect>
+  </row>
+  <row>
+    <ID>178</ID>
+    <weight>50</weight>
+    <description>You scratch the door with your paws, the clerk notices you and opens the door for you</description>
+    <time></time>
+    <runto>41</runto>
+    <effect></effect>
+  </row>
+  <row>
+    <ID>179</ID>
+    <weight>50</weight>
+    <description>The clerk thought you were cute and opened the door for you</description>
+    <time></time>
+    <runto>41</runto>
+    <effect></effect>
+  </row>
+  <row>
+    <ID>180</ID>
+    <weight>50</weight>
+    <description>The clerk didn't notice you</description>
+    <time>30</time>
+    <runto></runto>
+    <effect></effect>
+  </row>
+  <row>
+    <ID>181</ID>
+    <weight>100</weight>
+    <description>You act cute to the clerk, he gave you something to eat</description>
+    <time>60</time>
+    <runto></runto>
+    <effect>(item,6),(intelligencePoint,10)</effect>
+  </row>
+  <row>
+    <ID>182</ID>
+    <weight>50</weight>
+    <description>Clerk give you some thing to eat. you get:</description>
+    <time>60</time>
+    <runto></runto>
+    <effect>(item,6),(intelligencePoint,10)</effect>
+  </row>
+  <row>
+    <ID>183</ID>
+    <weight>30</weight>
+    <description>Clerk give you some thing to eat. you get:</description>
+    <time>60</time>
+    <runto></runto>
+    <effect>(item,5),(intelligencePoint,10)</effect>
+  </row>
+  <row>
+    <ID>184</ID>
+    <weight>20</weight>
+    <description>Clerk give you some thing to eat. you get:</description>
+    <time>60</time>
+    <runto></runto>
+    <effect>(item,4),(intelligencePoint,10)</effect>
+  </row>
+  <row>
+    <ID>185</ID>
+    <weight>100</weight>
+    <description>You climbed up the shelf and carried away an item:</description>
+    <time>60</time>
+    <runto></runto>
+    <effect>(item,5)</effect>
+  </row>
+  <row>
+    <ID>186</ID>
+    <weight>50</weight>
+    <description>You successfully caught a chick and had a full meal</description>
+    <time>60</time>
+    <runto></runto>
+    <effect>(intelligencePoint,10),(satietyPoint,20),(stamiaPoint,-10)</effect>
+  </row>
+  <row>
+    <ID>187</ID>
+    <weight>50</weight>
+    <description>Just when you were about to catch a chick, the farmer showed up and drove you away</description>
+    <time>60</time>
+    <runto></runto>
+    <effect>(intelligencePoint,10)</effect>
+  </row>
+  <row>
+    <ID>188</ID>
+    <weight>100</weight>
+    <description>You don't want to kill the chicks, you leave</description>
+    <time>0</time>
+    <runto></runto>
+    <effect></effect>
+  </row>
+  <row>
+    <ID>189</ID>
+    <weight>100</weight>
+    <description>You left wit</description>
+    <time>0</time>
+    <runto></runto>
+    <effect></effect>
+  </row>
+  <row>
+    <ID>190</ID>
+    <weight>50</weight>
+    <description>You made a mess of yourself and it smelled like garbage, but you found an item:</description>
+    <time>60</time>
+    <runto></runto>
+    <effect>(item,1),(survivePoint,5),(cleanPoint,-5)</effect>
+  </row>
+  <row>
+    <ID>191</ID>
+    <weight>30</weight>
+    <description>You made a mess of yourself and it smelled like garbage, but you found an item:</description>
+    <time>60</time>
+    <runto></runto>
+    <effect>(item,2),(survivePoint,5),(cleanPoint,-5)</effect>
+  </row>
+  <row>
+    <ID>192</ID>
+    <weight>20</weight>
+    <description>You made a mess of yourself and it smelled like garbage, but you found an item:</description>
+    <time>60</time>
+    <runto></runto>
+    <effect>(item,3),(survivePoint,5),(cleanPoint,-5)</effect>
+  </row>
+  <row>
+    <ID>193</ID>
+    <weight>100</weight>
+    <description>A human found you and gave you something to eat</description>
+    <time>30</time>
+    <runto></runto>
+    <effect>(item,4)</effect>
+  </row>
+  <row>
+    <ID>194</ID>
+    <weight>100</weight>
+    <description>You left</description>
+    <time>0</time>
+    <runto></runto>
+    <effect></effect>
+  </row>
+  <row>
+    <ID>195</ID>
+    <weight>100</weight>
+    <description>You left</description>
+    <time>0</time>
+    <runto></runto>
+    <effect></effect>
+  </row>
+  <row>
+    <ID>196</ID>
+    <weight>100</weight>
+    <description>You left</description>
+    <time>0</time>
+    <runto></runto>
+    <effect></effect>
+  </row>
+  <row>
+    <ID>197</ID>
+    <weight>100</weight>
+    <description>You accepted this task. Your grandmother hopes that you will be able to go to Otaku's house. Otaku is her grandson and has not been away for a long time.</description>
+    <time>30</time>
+    <runto></runto>
+    <effect>(luckyPoint,1)</effect>
+  </row>
+  <row>
+    <ID>198</ID>
+    <weight>100</weight>
+    <description>You rejected this task, after all you are a cat</description>
+    <time>30</time>
+    <runto></runto>
+    <effect></effect>
+  </row>
+  <row>
+    <ID>199</ID>
+    <weight>100</weight>
+    <description>You successfully made otaku notice that there are more than games in life. good job cat.</description>
+    <time>30</time>
+    <runto></runto>
+    <effect>(luckyPoint,-2)</effect>
+  </row>
+  <row>
+    <ID>200</ID>
+    <weight>100</weight>
+    <description>So where is the otaku's house?</description>
+    <time>10</time>
+    <runto></runto>
+    <effect></effect>
+  </row>
+</Root>

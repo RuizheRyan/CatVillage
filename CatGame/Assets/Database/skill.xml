@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Root>
+  <row>
+    <ID>1</ID>
+    <name>too cute to harm</name>
+    <triggername>cutePoint</triggername>
+    <value>25</value>
+    <active>0</active>
+    <description>you have a high probability won't be attack by human</description>
+    <islearned>0</islearned>
+  </row>
+  <row>
+    <ID>2</ID>
+    <name>King of garbage</name>
+    <triggername>survivePoint</triggername>
+    <value>25</value>
+    <active>0</active>
+    <description>increase the level of items you find in garbage </description>
+    <islearned>0</islearned>
+  </row>
+  <row>
+    <ID>3</ID>
+    <name>The cute cat is watching you </name>
+    <triggername>intelligencePoint</triggername>
+    <value>25</value>
+    <active>0</active>
+    <description>you can sometimes know what human will do</description>
+    <islearned>0</islearned>
+  </row>
+  <row>
+    <ID>4</ID>
+    <name>feed me! I'm cute</name>
+    <triggername>cutePoint</triggername>
+    <value>50</value>
+    <active>0</active>
+    <description>some human will feed you </description>
+    <islearned>0</islearned>
+  </row>
+  <row>
+    <ID>5</ID>
+    <name>36 plan, escape is the best</name>
+    <triggername>survivePoint</triggername>
+    <value>50</value>
+    <active>0</active>
+    <description>if you want to escape, you can</description>
+    <islearned>0</islearned>
+  </row>
+  <row>
+    <ID>6</ID>
+    <name>human hand is good</name>
+    <triggername>intelligencePoint</triggername>
+    <value>50</value>
+    <active>0</active>
+    <description>able to open plastic bag</description>
+    <islearned>0</islearned>
+  </row>
+  <row>
+    <ID>7</ID>
+    <name>I'm cute, So cute</name>
+    <triggername>cutePoint</triggername>
+    <value>75</value>
+    <active>0</active>
+    <description>trigger some special event</description>
+    <islearned>0</islearned>
+  </row>
+  <row>
+    <ID>8</ID>
+    <name>rat? where?</name>
+    <triggername>survivePoint</triggername>
+    <value>75</value>
+    <active>0</active>
+    <description>make 100% sure to kill a rat</description>
+    <islearned>0</islearned>
+  </row>
+  <row>
+    <ID>9</ID>
+    <name>Assassin's Creed</name>
+    <triggername>intelligencePoint</triggername>
+    <value>75</value>
+    <active>0</active>
+    <description>able to make human run away</description>
+    <islearned>0</islearned>
+  </row>
+</Root>

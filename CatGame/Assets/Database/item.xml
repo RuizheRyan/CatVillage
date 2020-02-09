@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Root>
+  <row>
+    <ID>1</ID>
+    <name>Stale bread</name>
+    <effect>(satietyPoint,10),(drinkPoint,-5),(healthPoint,-10)</effect>
+    <level>1</level>
+    <description>A piece of dry, terrible bread, never exaggerated, really terrible</description>
+  </row>
+  <row>
+    <ID>2</ID>
+    <name>Ship biscuit</name>
+    <effect>(satietyPoint,15),(drinkPoint,-15)</effect>
+    <level>1</level>
+    <description>A compressed biscuit that looks like it will absorb all the moisture from your body</description>
+  </row>
+  <row>
+    <ID>3</ID>
+    <name>Rotting fish</name>
+    <effect>(satietyPoint,5),(healthPoint,-10)</effect>
+    <level>1</level>
+    <description>The fish smells so bad that can no longer tell what species it is</description>
+  </row>
+  <row>
+    <ID>4</ID>
+    <name>Waste water</name>
+    <effect>(drinkPoint,10),(healthPoint,-10)</effect>
+    <level>1</level>
+    <description>A puddle of water that doesn't smell right, you know you will be sick if you drink it. You won't drink it, right?</description>
+  </row>
+  <row>
+    <ID>5</ID>
+    <name>Smelly yogurt</name>
+    <effect>(drinkPoint,5),(healthPoint,-10)</effect>
+    <level>1</level>
+    <description>A box of yogurt that has been in it for a long time, it has dried like cheese</description>
+  </row>
+  <row>
+    <ID>6</ID>
+    <name>Expired milk</name>
+    <effect>(drinkPoint,12),(healthPoint,-10)</effect>
+    <level>1</level>
+    <description>A box of milk, but it smells like yogurt</description>
+  </row>
+  <row>
+    <ID>7</ID>
+    <name>Smelly Turkey</name>
+    <effect>(satietyPoint,8),(healthPoint,-10)</effect>
+    <level>2</level>
+    <description>A piece of turkey,but it smells like it was made from Easter</description>
+  </row>
+  <row>
+    <ID>8</ID>
+    <name>Soft banana</name>
+    <effect>(satietyPoint,5),(healthPoint,-5)</effect>
+    <level>2</level>
+    <description>A banana soft like cotton</description>
+  </row>
+  <row>
+    <ID>9</ID>
+    <name>Too salty bacon</name>
+    <effect>(satietyPoint,5),(drinkPoint,-5)</effect>
+    <level>2</level>
+    <description>A piece of bacon, wait, what is the salt</description>
+  </row>
+  <row>
+    <ID>10</ID>
+    <name>Abandoned wine</name>
+    <effect>(drinkPoint,10),(healthPoint,-5)</effect>
+    <level>2</level>
+    <description>A glass of abandoned wine, you know cats can't drink, right</description>
+  </row>
+  <row>
+    <ID>11</ID>
+    <name>Unknow juice</name>
+    <effect>(drinkPoint,8),(healthPoint,-5)</effect>
+    <level>2</level>
+    <description>A glass of juice without knowing the ingredients, God knows what's inside</description>
+  </row>
+  <row>
+    <ID>12</ID>
+    <name>Melting ice</name>
+    <effect>(satietyPoint,2),(drinkPoint,3),(healthPoint,-5)</effect>
+    <level>2</level>
+    <description>Ice at the same temperature as Alaska</description>
+  </row>
+  <row>
+    <ID>13</ID>
+    <name>Corn</name>
+    <effect>(satietyPoint,10)</effect>
+    <level>3</level>
+    <description>Perfect corn, even Khrushchev can't refuse</description>
+  </row>
+  <row>
+    <ID>14</ID>
+    <name>Millet</name>
+    <effect>(satietyPoint,10)</effect>
+    <level>3</level>
+    <description>A bowl of millet</description>
+  </row>
+  <row>
+    <ID>15</ID>
+    <name>Carrots</name>
+    <effect>(satietyPoint,7),(drinkPoint,3)</effect>
+    <level>3</level>
+    <description>A cooked and softened carrots, Rabbit favorite. Wait, you are a cat right?</description>
+  </row>
+  <row>
+    <ID>16</ID>
+    <name>Water</name>
+    <effect>(drinkPoint,10)</effect>
+    <level>3</level>
+    <description>A bowl of water that looks okay</description>
+  </row>
+  <row>
+    <ID>17</ID>
+    <name>Abandoned porridge</name>
+    <effect>(satietyPoint,6),(drinkPoint,4)</effect>
+    <level>3</level>
+    <description>eftover porridge that smells good</description>
+  </row>
+  <row>
+    <ID>18</ID>
+    <name>Abandoned yogurt</name>
+    <effect>(satietyPoint,1),(drinkPoint,4),(healthPoint,5)</effect>
+    <level>3</level>
+    <description>Drinking leftover yogurt that looks okay</description>
+  </row>
+  <row>
+    <ID>19</ID>
+    <name>Perfect apple</name>
+    <effect>(satietyPoint,15),(drinkPoint,15)</effect>
+    <level>4</level>
+    <description>some Intact apple, shiny red</description>
+  </row>
+  <row>
+    <ID>20</ID>
+    <name>Graham bread</name>
+    <effect>(satietyPoint,20)</effect>
+    <level>4</level>
+    <description>A few slices of whole wheat bread</description>
+  </row>
+  <row>
+    <ID>21</ID>
+    <name>Hard Cheeses</name>
+    <effect>(satietyPoint,15),(healthPoint,5)</effect>
+    <level>4</level>
+    <description>Cat's favorite, or maybe Cat's favorite</description>
+  </row>
+  <row>
+    <ID>22</ID>
+    <name>Clearwater</name>
+    <effect>(drinkPoint,20)</effect>
+    <level>4</level>
+    <description>A cup of Clear water</description>
+  </row>
+  <row>
+    <ID>23</ID>
+    <name>Purified water</name>
+    <effect>(drinkPoint,20)</effect>
+    <level>4</level>
+    <description>A cup of Mineral-rich water</description>
+  </row>
+  <row>
+    <ID>24</ID>
+    <name>Spring water</name>
+    <effect>(drinkPoint,20)</effect>
+    <level>5</level>
+    <description>It has the smell of mother nature</description>
+  </row>
+  <row>
+    <ID>25</ID>
+    <name>Cooked beef</name>
+    <effect>(satietyPoint,20),(healthPoint,10)</effect>
+    <level>5</level>
+    <description>A Pan-fried steak</description>
+  </row>
+  <row>
+    <ID>26</ID>
+    <name>Cooked salmon</name>
+    <effect>(satietyPoint,15),(healthPoint,15)</effect>
+    <level>5</level>
+    <description>A piece of slamon without fishy smell</description>
+  </row>
+  <row>
+    <ID>27</ID>
+    <name>A hamburger</name>
+    <effect>(satietyPoint,30)</effect>
+    <level>5</level>
+    <description>in-or-out hamburger with grilled onion (in-n-out is not our patron)</description>
+  </row>
+  <row>
+    <ID>28</ID>
+    <name>A glass of milk</name>
+    <effect>(satietyPoint,5),(drinkPoint,25)</effect>
+    <level>5</level>
+    <description>A glass of milk! Your favorite!</description>
+  </row>
+  <row>
+    <ID>29</ID>
+    <name>Milk shake</name>
+    <effect>(satietyPoint,5),(drinkPoint,15),(healthPoint,10)</effect>
+    <level>5</level>
+    <description>Milk shake!!!! Even better than milk!</description>
+  </row>
+  <row>
+    <ID>30</ID>
+    <name>A bag of bread</name>
+    <effect>(satietyPoint,40)</effect>
+    <level>6</level>
+    <description>A famliy-size pack bread, but it takes some efforts to open it with your paw</description>
+  </row>
+  <row>
+    <ID>31</ID>
+    <name>A bottle of pure water</name>
+    <effect>(drinkPoint,40)</effect>
+    <level>6</level>
+    <description>One gallon bottle sized purified water.you sure you can open it with your paw?</description>
+  </row>
+  <row>
+    <ID>32</ID>
+    <name>A bag of apple</name>
+    <effect>(satietyPoint,20),(drinkPoint,20)</effect>
+    <level>6</level>
+    <description>A larg pack of apples, but how to open it?</description>
+  </row>
+  <row>
+    <ID>33</ID>
+    <name>A medical kit</name>
+    <effect>(healthPoint,40)</effect>
+    <level>6</level>
+    <description>from CVS med-kit(Medical insurence doesn't cover this)</description>
+  </row>
+</Root>

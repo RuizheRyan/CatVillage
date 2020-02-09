@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7662136354603861816
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7662136354603861815}
+  - component: {fileID: 7662136354603861814}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7662136354603861815
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7662136354603861816}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7662136354603861814
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7662136354603861816}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 08242b9a19a641f4c808148355219dbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _satietyPoint: 0
+  _healthPoint: 100
+  _drinkPoint: 100
+  _staminaPoint: 0
+  _walkSpeed: 1
+  _cleanPoint: 50
+  _cutePoint: 0
+  _survivePoint: 0
+  _intelligencePoint: 0
+  _luckyPoint: 1
+  _maxSatietyPoint: 100
+  _maxDrinkPoint: 100
+  _maxHealthPoint: 100
+  _maxStaminaPoint: 100
+  _maxWalkSpeed: 0
+  _maxCleanPoint: 100
+  _maxLuckyPoint: 10
+  _time: 0
+  _day: 0
+  gamePlay: {fileID: 0}
+  skill: {fileID: 0}
+  eventBox: {fileID: 0}
+  gameover: {fileID: 0}
+  isEncounter: 0
+  eventContent: 
+  options:
+  - 
+  - 
+  - 
+  - 
+  optionRank: -1
+  actionButton: []

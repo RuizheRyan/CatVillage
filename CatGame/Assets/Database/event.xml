@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Root>
+  <row>
+    <ID>1</ID>
+    <houseID>6</houseID>
+    <description>This place is a town's garbage concent. You can smell the smelly smell in the air across the distance. This is why it's so inaccessible here. Although you can't find anything delicious here, you can always find some useful items.</description>
+    <optionID>1,2</optionID>
+  </row>
+  <row>
+    <ID>2</ID>
+    <houseID>7</houseID>
+    <description>The grandma would be really angry, she locked all the entrances. You searched for a while and didn't find any unlocked entrance</description>
+    <optionID>3,4</optionID>
+  </row>
+  <row>
+    <ID>3</ID>
+    <houseID>7</houseID>
+    <description>As soon as you jumped into the room through the window, the old lady put down the newspaper in her hand, stood up, and look at you alertly.</description>
+    <optionID>5,6,7,8</optionID>
+  </row>
+  <row>
+    <ID>4</ID>
+    <houseID>7</houseID>
+    <description>You rushed to the grandma, she escaped in fear, but suddenly lost her focus and fell to the ground severely. You bypassed the grandma and entered the kitchen</description>
+    <optionID>9,10</optionID>
+  </row>
+  <row>
+    <ID>5</ID>
+    <houseID>7</houseID>
+    <description>Seeing you jump into the room, the grandma sighed slightly</description>
+    <optionID>11,12,13,14</optionID>
+  </row>
+  <row>
+    <ID>6</ID>
+    <houseID>7</houseID>
+    <description>You quickly jumped on the table and overturned the tea cup, and yelled at the grandma amusedly, and then ran out of the room flexibly. The grandma was so angry that she chased outside. Thus, you came back inside her house</description>
+    <optionID>15,16</optionID>
+  </row>
+  <row>
+    <ID>7</ID>
+    <houseID>7</houseID>
+    <description>Seeing you jumped into the room, an old lady smiles and welcomed you. Although you are not familiar with this human, you can also feel her friendliness</description>
+    <optionID>17,18,19,20</optionID>
+  </row>
+  <row>
+    <ID>8</ID>
+    <houseID>7</houseID>
+    <description>You bypassed grandma and came to the trash can</description>
+    <optionID>21,22</optionID>
+  </row>
+  <row>
+    <ID>9</ID>
+    <houseID>7</houseID>
+    <description>You jumped into the room and the grandma smiled as if she saw a friend</description>
+    <optionID>23,24,25,26</optionID>
+  </row>
+  <row>
+    <ID>10</ID>
+    <houseID>7</houseID>
+    <description>Grandma brought you something to eat</description>
+    <optionID>27,28</optionID>
+  </row>
+  <row>
+    <ID>11</ID>
+    <houseID>7</houseID>
+    <description>Seeing you jump into the house, grandma got up and asked you to go to the kitchen with her</description>
+    <optionID>29,30</optionID>
+  </row>
+  <row>
+    <ID>12</ID>
+    <houseID>7</houseID>
+    <description>Grandma brought you something to eat</description>
+    <optionID>31,32</optionID>
+  </row>
+  <row>
+    <ID>13</ID>
+    <houseID>7</houseID>
+    <description>The door was not shut tightly, you entered the room gently. Grandma put down the newspaper, you two are like old friends.</description>
+    <optionID>33,34,35,36</optionID>
+  </row>
+  <row>
+    <ID>14</ID>
+    <houseID>8</houseID>
+    <description>The young man should be working at company right now. You haven't found the entrance after looking for a long time. It must be that he has locked all windows and doors.</description>
+    <optionID>37,38,39</optionID>
+  </row>
+  <row>
+    <ID>15</ID>
+    <houseID>8</houseID>
+    <description>You searched again. However, you didn't find anywhere to enter the house, but you found a garbage bag outside</description>
+    <optionID>40,41,42</optionID>
+  </row>
+  <row>
+    <ID>16</ID>
+    <houseID>8</houseID>
+    <description>It took you a long time to find an open window and you jumped into the room. The young man should be at work now, there was no sound in the room, but you heard the sound of mice</description>
+    <optionID>43,44,45,46</optionID>
+  </row>
+  <row>
+    <ID>17</ID>
+    <houseID>8</houseID>
+    <description>You entered the kitchen and wanted to see what you could eat. Obviously, this human left in a hurry in the morning, and there are still breakfast left on the table. But there would be something better in the fridge, or it's good to take a look at the bin</description>
+    <optionID>47,48,49,50</optionID>
+  </row>
+  <row>
+    <ID>18</ID>
+    <houseID>8</houseID>
+    <description>You jumped into this room. The room was very cluttered and various paper documents were scattered on the table. It seems nobody was home, but you heared some sounds likely, sounded like a mouse?</description>
+    <optionID>51,52,53,54</optionID>
+  </row>
+  <row>
+    <ID>19</ID>
+    <houseID>8</houseID>
+    <description>all right, choose a target to destroy it.</description>
+    <optionID>55,56,57,58</optionID>
+  </row>
+  <row>
+    <ID>20</ID>
+    <houseID>8</houseID>
+    <description>You came to the kitchen, there were some apples on the table. Also, it seemed to be a breakfast that humans did not finish on the table, and there were a lot of things in the trash.</description>
+    <optionID>59,60,61,62</optionID>
+  </row>
+  <row>
+    <ID>21</ID>
+    <houseID>8</houseID>
+    <description>Before you jumped into the house, you noticed a plate of fried fish at the door, as if reserved for you.</description>
+    <optionID>63,64,65</optionID>
+  </row>
+  <row>
+    <ID>22</ID>
+    <houseID>8</houseID>
+    <description>Although the smell of that fish is very appetizing, you still ignoreed the fish and jumped into the room through a window</description>
+    <optionID>66,67</optionID>
+  </row>
+  <row>
+    <ID>23</ID>
+    <houseID>8</houseID>
+    <description>Who needs that fish? There must be something more luscious in the house</description>
+    <optionID>68,69,70</optionID>
+  </row>
+  <row>
+    <ID>24</ID>
+    <houseID>8</houseID>
+    <description>Who needs that fish? Destroying is your favorite</description>
+    <optionID>71,72,73</optionID>
+  </row>
+  <row>
+    <ID>25</ID>
+    <houseID>8</houseID>
+    <description>You noticed that a cat hole for you was added to the door of this house. When you entered the house, you found canned cat food and milk on the ground, and there was a warm cat house next to them.</description>
+    <optionID>74,75</optionID>
+  </row>
+  <row>
+    <ID>26</ID>
+    <houseID>8</houseID>
+    <description>As soon as you entered the room, you found a young man. Obviously, he saw you too. The next second he would rush you in anger.</description>
+    <optionID>76,77</optionID>
+  </row>
+  <row>
+    <ID>27</ID>
+    <houseID>8</houseID>
+    <description>As soon as you entered the house, you found a young man who saw you but he did nothing.</description>
+    <optionID>78,79,80</optionID>
+  </row>
+  <row>
+    <ID>28</ID>
+    <houseID>8</houseID>
+    <description>You jumped into the house and found that young person was looking forward your arrival</description>
+    <optionID>81,82</optionID>
+  </row>
+  <row>
+    <ID>29</ID>
+    <houseID>8</houseID>
+    <description>You noticeed that a cat hole had been added to the door of this house, and the young man had prepared the canned cat for you next day.</description>
+    <optionID>83,84,85</optionID>
+  </row>
+  <row>
+    <ID>30</ID>
+    <houseID>13</houseID>
+    <description>As soon as you stepped into the house, you found a wild child rushing towards you</description>
+    <optionID>86,87,88,89</optionID>
+  </row>
+  <row>
+    <ID>31</ID>
+    <houseID>3</houseID>
+    <description>You came to the bar, but the bar seems closed, there were no people, but the backyard door was open. There were a few big trash cans in it.</description>
+    <optionID>90,91,92,93</optionID>
+  </row>
+  <row>
+    <ID>32</ID>
+    <houseID>3</houseID>
+    <description>You came to the bar, but it seems closed, there was only some drunk man with a cup of wine in his hand.</description>
+    <optionID>94,95,96,97</optionID>
+  </row>
+  <row>
+    <ID>33</ID>
+    <houseID>3</houseID>
+    <description>You didn't find the entrance, but you found a drunk man lying by the road</description>
+    <optionID>94,95,96,97</optionID>
+  </row>
+  <row>
+    <ID>34</ID>
+    <houseID>3</houseID>
+    <description>The bar is open. It's full of people. Obviously, cats are not inappropriate for this kind of place. You won't go in, right?</description>
+    <optionID>100,101</optionID>
+  </row>
+  <row>
+    <ID>35</ID>
+    <houseID>3</houseID>
+    <description>You entered the bar and the music here was deafening that nobody noticed you</description>
+    <optionID>102,103</optionID>
+  </row>
+  <row>
+    <ID>36</ID>
+    <houseID>9</houseID>
+    <description>You entered the otaku's house, and there were leftover takeaways everywhere. Otaku is intently playing "death stranding", even did't noticing your existence</description>
+    <optionID>104,105,106</optionID>
+  </row>
+  <row>
+    <ID>37</ID>
+    <houseID>9</houseID>
+    <description>You look at the otaku and try to take his attention away from the game</description>
+    <optionID>107,108,109,110</optionID>
+  </row>
+  <row>
+    <ID>38</ID>
+    <houseID>9</houseID>
+    <description>You entered the otaku's house, and there were leftover takeaways everywhere. Otaku is intently playing "death stranding", even did't noticing your existence. But obviously, canned cats foods on the ground are for you</description>
+    <optionID>111,112,113</optionID>
+  </row>
+  <row>
+    <ID>39</ID>
+    <houseID>9</houseID>
+    <description>You entered the otaku's house, he stop the game and start cooking for you</description>
+    <optionID>114,115</optionID>
+  </row>
+  <row>
+    <ID>40</ID>
+    <houseID>5</houseID>
+    <description>You came to the grocery store, and obviously you couldn't get in.</description>
+    <optionID>116,117,118,119</optionID>
+  </row>
+  <row>
+    <ID>41</ID>
+    <houseID>5</houseID>
+    <description>you enter the grocery store</description>
+    <optionID>120,121,122</optionID>
+  </row>
+  <row>
+    <ID>42</ID>
+    <houseID>2</houseID>
+    <description>You entered the chicken farm and found a few chicks</description>
+    <optionID>123,124</optionID>
+  </row>
+  <row>
+    <ID>43</ID>
+    <houseID>4</houseID>
+    <description>You came to the restaurant, it's clear that cats shouldn't come here, there are humans everywhere</description>
+    <optionID>125,126,127</optionID>
+  </row>
+  <row>
+    <ID>44</ID>
+    <houseID>10</houseID>
+    <description>This house is abandoned</description>
+    <optionID>128</optionID>
+  </row>
+  <row>
+    <ID>45</ID>
+    <houseID>11</houseID>
+    <description>This house is abandoned</description>
+    <optionID>129</optionID>
+  </row>
+  <row>
+    <ID>46</ID>
+    <houseID>12</houseID>
+    <description>This house is abandoned</description>
+    <optionID>130</optionID>
+  </row>
+  <row>
+    <ID>47</ID>
+    <houseID>7</houseID>
+    <description>Quest!&#x000A;When you came to the grandma's house again, you saw that she was sighing, and somehow you understood what she said, and she hoped that you could go to the otaku's house to accompany him.</description>
+    <optionID>131,132</optionID>
+  </row>
+  <row>
+    <ID>48</ID>
+    <houseID>9</houseID>
+    <description>Quest complete!&#x000A;You came to the otaku's room, and it's clear that the grandma had told your otaku about your arrival before. Otaku stopped the game in hand and was very happy to prepare a canned cat for you</description>
+    <optionID>133</optionID>
+  </row>
+  <row>
+    <ID>49</ID>
+    <houseID>7</houseID>
+    <description>Come back after completing the mission</description>
+    <optionID>134</optionID>
+  </row>
+</Root>

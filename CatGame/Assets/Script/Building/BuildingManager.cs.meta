@@ -1,0 +1,30 @@
+fileFormatVersion: 2
+guid: e8f7608c384cad8469e935b75c0c4f27
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - cathouse: {fileID: -927199367670048503, guid: 8dbedafdd47fd244b8d2118f0e8dbef4,
+      type: 3}
+  - chickenfarm: {fileID: -927199367670048503, guid: e2bf49b2a3f964c4db05bb0bedafbee1,
+      type: 3}
+  - grocery: {fileID: -927199367670048503, guid: 2abade1ce05704e44b27caf605b43d60,
+      type: 3}
+  - restaurant: {fileID: -927199367670048503, guid: 807017f67123f554fac399806715cf0c,
+      type: 3}
+  - bar: {fileID: -927199367670048503, guid: 12165330142d03945a7b118a4ae5458b, type: 3}
+  - grandmahouse: {fileID: -927199367670048503, guid: fa99d5f219849b140ab44e2aa0357191,
+      type: 3}
+  - otakuhouse: {fileID: -927199367670048503, guid: 0dadaf9aa40294d4bb1ddfee1f415fdb,
+      type: 3}
+  - familyhouse: {instanceID: 0}
+  - garbagedump: {instanceID: 0}
+  - workerhouse: {instanceID: 0}
+  - bohouse: {instanceID: 0}
+  - rohouse: {instanceID: 0}
+  - gohouse: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
